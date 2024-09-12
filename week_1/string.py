@@ -20,6 +20,4 @@ print(x[::-1]) # revise string
 print(x[-11:-2])
 
 print(x.find("o"))
-print(x.rfind("o"))
-
-
+print(x.rfind("o")) # revise find
